@@ -10,7 +10,7 @@ function App() {
         </p>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Ok my 0G
+          Ok my L0VE
         </p>
       </header>
     </div>
