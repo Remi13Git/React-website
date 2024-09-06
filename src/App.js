@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <p>
-          My First React Template
+          My First Updated React Template
         </p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
